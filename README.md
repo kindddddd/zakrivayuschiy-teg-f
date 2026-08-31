@@ -1,1 +1,1 @@
-https://kindddddd.github.io/zakrivayuschiy-teg-f/
+https://github.com/kindddddd/zakrivayuschiy-teg-f
