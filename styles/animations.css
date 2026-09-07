@@ -115,7 +115,9 @@
 
 .like-icon.is-liked .heart {
   animation: heart-scale 0.3s ease-in 0.1s 1;
-}
+  transform-box: fill-box;
+  transform-origin: center;
+} 
 
 .like-icon.is-liked .sparks {
   animation: sparks-show 0.3s ease-in 0.3s 1;
