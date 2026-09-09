@@ -24,7 +24,8 @@
     );
 
   --content-width: clamp(375px, calc(100vw), 700px);
-  --header-padding-block: 100px;
+  --header-padding-top: 100px;
+  --header-padding-bottom: 98px;
   --logo-main-size: clamp(49px, 5vw, 65px);
   --logo-subtitle-size: clamp(14px, 2.5vw, 23px);
   --card-title-weight:715;
